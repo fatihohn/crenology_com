@@ -6,20 +6,20 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site title
-title: BlogBox
+title: Crenology
 
 # Below the site title
-tagline: Tales of a digital nomad.
+tagline: 작은 동물들을 위한 최고의 관리도구
 
 # Site logo
-logo:
+logo: crenologylogo.png
 
 # A description of your site for social meta tag, search engines, and feed.xml
 description: |
-  BlogBox is a bold theme for the Jekyll blogging platform. Available for purchase at ThemeForest.net.
+  작은 동물들을 위한 최고의 관리도구
 
 # The base hostname & protocol of your site for where absolute urls are needed
-url: https://blogbox.netlify.app
+url: https://crenology.com
 
 # The subpath of your site, if you want to host your path on a subpath like on GitHub Pages. e.g. /blog
 baseurl:
@@ -33,35 +33,35 @@ navigation:
   url: /
 - text: About
   url: /about/
-- text: Style Guide
-  url: /style-guide/
+# - text: Style Guide
+#   url: /style-guide/
 - text: Archives
   url: /tags/
 
 # Author information - author info at the bottom of the post
-author_name: "John Doe"
-author_bio: "My name is John Doe. I’m a full-time adventure travel blogger and photographer who’s been exploring the world for over 6 years."
-author_url: "https://justgoodthemes.com"
-author_location: "Vilnius, Lithuania"
-author_image: authorimage.jpg
+author_name: "Crenology"
+author_bio: "크레놀로지는 작은 동물들을 위한 최고의 관리도구입니다."
+author_url: "https://crenology.com"
+author_location: "Seoul, Republic of Korea"
+author_image: authorimage.png
 
 # Footer ad banner
 banner_image: banner.jpg
-banner_url: https://justgoodthemes.com/
+banner_url: https://crenology.com/
 
 # Footer newsletter widget - add your form action url for MailChimp signup form here
-mailchimp_url: "//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117"
+# mailchimp_url: "//justgoodthemes.us3.list-manage.com/subscribe/post?u=78f1bab16028354caeb23aecd&amp;id=4a7330d117"
 
 # Social links in the site footer
-twitter_username: "username"
-facebook_username: "username"
-github_username: "username"
-codepen_username: "username"
-dribbble_username: "username"
-medium_username: "@username"
-instagram_username: "username"
-pinterest_username: "username"
-linkedin_username: "username"
+# twitter_username: "username"
+# facebook_username: "username"
+github_username: "fatihohn"
+# codepen_username: "username"
+# dribbble_username: "username"
+# medium_username: "@username"
+instagram_username: "cre_sodong"
+# pinterest_username: "username"
+# linkedin_username: "username"
 
 # http://jekyllrb.com/docs/pagination/
 paginate: 5

@@ -1,24 +1,30 @@
 ---
 layout: page
-title: About this blog
-description: An optional about page for BlogBox Jekyll theme
+title: 크레놀로지?
+description: 크레놀로지 블로그입니다.
 featured_image: aboutPage.jpg
 ---
 
-My name is John Doe. I’m a full-time adventure travel blogger and photographer who’s been exploring the world for over 5 years.
+# 소동물
 
-Welcome to my blog and I absolutely appreciate you stopping by! On December 25th, 2001, I left the Canada for a four months, trip to Asia. The idea was to backpack around China, Thailand, Vietnam and Cambodia and then return home and start a career in the IT industry.
+크레놀로지는 소동물 집사를 위한 반려동물 관리도구입니다. 
 
-When I landed in Bangkok, I had $3500 USD to my name and that was it. I booked a bed in a old guesthouse in the center of the city for about a dollar per night and let the adventure begin.
+기타 반려동물? 소동물? 
 
-> “To live is the rarest thing in the world. Most people exist, that is all.” <cite>― Oscar Wilde ―</cite>
+- 소동물 집사의 길은 쉬운 것 같으면서도 어렵습니다. 
 
-In the end, I never went home after those three months. And it’s now been over 14 years and that trip has still yet to finish.
 
-The adventure has involved over 75+ countries on 5 continents as I’ve worked, lived, traveled and volunteered all over the planet.
 
-Through my own adventures – from the incredible moments and rewarding interactions to the struggles and major challenges – I aim to provide a realistic and honest account of what long-term travel is truly about and how you can work on achieving such a goal yourself.
 
-While the recognition and mentions this blog has received over the years are certainly nice, nothing compares to an email from a reader telling me that the blog helped them achieve their own travel goals.
+주류 반려동물인 개와 고양이를 제외한 기타 반려동물은 더 다양한 종이 있지만 정보의 양은 훨씬 적고 쉽게 접근하기도 어렵습니다. 통계청 정보에 따르면 전체 반려동물 중 개와 고양이를 제외하면 1% 남짓이라고 하니 놀라운 일은 아닙니다. 다만, 이런 통계 마저도 정확도가 떨어진다는 지적을 받고 있으니 이들에 대한 우리 사회의 인지도가 상당히 미약하다는 인상을 줍니다.
+소동물이라는 단어가 과연 맞는 것일까 싶으면서도 이들을 표현하기에 더 적절한 단어를 찾아내기는 어려운 일입니다. 대체로 개와 고양이보다는 작은 몸집을 가지고 있고 포유류, 조류, 파충류, 어류, 절지동물 등 다양한 분류의 동물이 포함되는 개념에 가장 적절한 말은 소동
 
-*Thank You for reading!*
+
+
+# 반려동물
+
+
+
+# 소동물의 동물권
+
+# 우리 사회의 모습
